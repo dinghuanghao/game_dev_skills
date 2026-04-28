@@ -1,0 +1,4 @@
+interface:
+  display_name: "game-audio"
+  short_description: "Generate procedural game SFX with pyfxr presets"
+  default_prompt: "Use $game-audio to generate a small pack of procedural game sound effects as WAV files."
